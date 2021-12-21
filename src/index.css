@@ -79,3 +79,7 @@ body {
   width: 700px;
   margin: auto;
 }
+
+.table .form {
+  text-align: center;
+}
